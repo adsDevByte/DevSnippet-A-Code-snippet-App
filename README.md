@@ -137,3 +137,12 @@ Then open any snippet → tap **"Explain with AI"**
 - SQLite database is initialized on app start with `WAL` mode for performance
 - All file operations use `expo-file-system` in the app's document directory
 - The font `SpaceMono` must be present in `assets/fonts/` for code rendering
+
+<h2 align="center">📱 App Screenshots</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2674ccd1-cb61-4cac-aa4e-78cedcff01b7" width="180" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/cb07c649-099d-4500-83a7-ebe1a7907ded" width="180" alt="Favorites Screen"/>
+  <img src="https://github.com/user-attachments/assets/ef6e9cae-6cb4-4511-822d-68d55018b4fa" width="180" alt="Snippet Details"/>
+  <img src="https://github.com/user-attachments/assets/c579d70d-2603-44ce-9d86-9f69616eb286" width="180" alt="Code View"/>
+</p>
